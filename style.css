@@ -80,3 +80,14 @@ i {
 .cn-wrapper li:nth-child(3) {
     transform: rotate(122.5deg) skew(25deg)
 }
+@media screen and (max-width:480px){
+    .cn-wrapper{
+      font-size:.68em;
+    }
+    .cn-button{
+      font-size:1em;
+    }
+    .cn-wrapper li {
+      font-size:1.52em;
+    }
+  }
