@@ -91,3 +91,13 @@ i {
       font-size:1.52em;
     }
   }
+@media screen and (max-width:320px){
+  .cn-wrapper{
+    width:15.15px;
+    margin-left: -7.5em;
+  }
+  .cn-wrapper li{
+    height:3em;
+    width:3em;
+  }
+}
